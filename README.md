@@ -41,4 +41,5 @@ la
 [chuleta de órdenes](https://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/) de
 El Baúl del Programador. 
 
+Manual GIT: https://desarrolloweb.com/manuales/manual-de-git.html
 
