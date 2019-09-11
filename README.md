@@ -41,7 +41,4 @@ la
 [chuleta de órdenes](https://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/) de
 El Baúl del Programador. 
 
-Libro de Git Pro
-https://git-scm.com/book/es/v2
-
 
